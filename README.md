@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... GameDevelopment || MachineLearning                                    
 - 🌱 I’m currently learning ... C++, and arduino
 - 📫 How to reach me ... Follow me in Instagram @purplecodes1
-
+https://pin.it/75MlAsF5A
 <!---
 AlifMAallik/AlifMAallik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
