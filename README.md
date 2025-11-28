@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Jacob
-![233810163-5644d42c-2777-4658-9c9c-6d2c23698025](https://github.com/AlifMAallik/AlifMAallik/assets/96690760/5bbd7e0d-12a3-4d68-9573-d38afe9cda03)  
-- 👀 I’m interested in ... GameDevelopment || MachineLearning                                    
-- 🌱 I’m currently learning ... C++, and arduino
-- 📫 How to reach me ... Follow me in Instagram @purplecodes1
-https://pin.it/75MlAsF5A
+
+https://github.com/user-attachments/assets/71c4ea4f-a3c6-41a2-a266-3ee79943c6af 
+                                                                                - 👀 I’m interested in ... GameDevelopment || MachineLearning                                    
+                                                                                - 🌱 I’m currently learning ... C++, and arduino
+                                                                                - 📫 How to reach me ... Follow me in Instagram @purplecodes1
+
 <!---
 AlifMAallik/AlifMAallik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
