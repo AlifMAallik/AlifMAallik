@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Game+Development+%7C+Machine+Learning;Building+worlds+with+code+and+neural+nets;C%2B%2B+%26+Arduino+tinkerer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=650&lines=Game+Development+%7C+Machine+Learning;Building+worlds+with+code;C%2B%2B+%26+Arduino+tinkerer" />
 </div>
 
 <br>
