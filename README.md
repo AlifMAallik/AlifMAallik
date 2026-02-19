@@ -32,7 +32,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlifMaallik&layout=compact&theme=radical&hide_border=true" width="60%" />
 </div>
-
 <br>
 
 <div align="center">
